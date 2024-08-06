@@ -1,7 +1,7 @@
 function square(number) {
-    return number * number;
+    return Math.sqrt(number);
 }
 
 function squareRoot(number) {
-    return Math.sqrt(number);
+    return Math.pow(number, 2);
 }
