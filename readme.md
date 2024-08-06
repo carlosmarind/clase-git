@@ -1,6 +1,3 @@
+Este es mi script
 
-saludo hola mundo 2
-
-hi hola
-
-esta funcionalidad esta incompleta, no subir aun
+Mi script calcula el cuadrado de cualquier numero que se ingrese
