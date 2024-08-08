@@ -7,3 +7,5 @@ function squareRoot(number) {
     console.log(number);
     return Math.pow(number, 2);
 }
+
+export { square, squareRoot };
