@@ -13,4 +13,4 @@ function contarletras(texto) {
     return texto.length;
 }
 
-export { square, squareRoot };
+export { square, squareRoot, contarletras };
