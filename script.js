@@ -7,7 +7,6 @@ function squareRoot(number) {
 }
 
 function contarletras(texto) {
-    console.log(texto);
     return texto.length;
 }
 
