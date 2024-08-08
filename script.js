@@ -12,3 +12,5 @@ function contarletras(texto) {
     console.log(texto);
     return texto.length;
 }
+
+export { square, squareRoot };
